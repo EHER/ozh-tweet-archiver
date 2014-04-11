@@ -1,3 +1,5 @@
+# This is a static version of ozh-tweet-archiver. The official version is [https://github.com/ozh/ozh-tweet-archiver](https://github.com/ozh/ozh-tweet-archiver).
+
 === Ozh' Tweet Archiver ===
 Donate link: http://planetozh.com/exit/donate
 Tags: ozh, twitter, archive, import, tweets, hashtags
